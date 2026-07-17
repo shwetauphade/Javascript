@@ -1,0 +1,10 @@
+let a=537;
+let b=90;
+console.log(a&&b);
+console.log(a||b);
+console.log(!a);
+let age=18;
+let isAdult=true;
+console.log(age>=18 && isAdult==true);
+console.log(age<18 || isAdult);
+console.log(!isAdult);
