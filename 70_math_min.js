@@ -1,0 +1,1 @@
+console.log(Math.min(12.45,30,99));
